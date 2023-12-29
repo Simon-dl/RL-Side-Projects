@@ -148,5 +148,5 @@ if __name__ == '__main__':
     
     writer.close()
         
-#tensorboard --logdir='/home/slim/Documents/otherprojects/RL_Projects/Cliff_Walking/runs'
+
 
